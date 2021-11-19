@@ -1,0 +1,27 @@
+NRRL_B-2410_anotado summary file
+
+This collection contains
+* 54 BGCs
+* 0 Proteins
+
+Core Biosynthetic Composition count (BGCs):
+13	T1PKS
+8	NRPS
+8	terpene
+3	NRPS-like
+3	siderophore
+2	lanthipeptide-class-iii
+2	T2PKS
+2	RiPP-like
+2	indole
+1	PKS-NRPS_hybrid
+1	RRE-containing, lassopeptide
+1	lanthipeptide-class-i
+1	melanin
+1	T2PKS, butyrolactone
+1	T3PKS
+1	ectoine
+1	hglE-KS
+1	butyrolactone
+1	furan
+1	PKS-NRPS_hybrid, T1PKS

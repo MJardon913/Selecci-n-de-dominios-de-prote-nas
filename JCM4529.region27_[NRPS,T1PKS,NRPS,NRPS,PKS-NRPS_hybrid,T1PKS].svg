@@ -1,0 +1,662 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="3747" height="84">
+  <g>
+    <title>JCM4529.region27</title>
+    <line x1="2" y1="42" x2="3745" y2="42" stroke="#464646" stroke-width="3"/>
+    <g>
+      <title>JCM4529.region27~L0+CDS1 [WP_193516844.1]</title>
+      <polygon class="exon" points="43.85,2 32.75,42.0 43.85,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS2 [WP_031018565.1]</title>
+      <polygon class="exon" points="106.7,22.0 99.9,22.0 99.9,2 59.9,42.0 99.9,82.0 99.9,62.0 106.7,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Sigma70_r2">
+        <title>Sigma-70 region 2
+ PF04542.16 - Sigma70_r2</title>
+        <polygon points="103.7,25.0 93.65,25.0 93.65,59.0 103.7,59.0" fill="#b83bc5" stroke="#932f9e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Sigma70_r4_2">
+        <title>Sigma-70, region 4
+ PF08281.14 - Sigma70_r4_2</title>
+        <polygon points="87.2,25.0 79.25,25.0 79.25,59.0 87.2,59.0" fill="#de6790" stroke="#b25273" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS3 [WP_019328976.1]</title>
+      <polygon class="exon" points="114.2,2 144.65,42.0 114.2,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,FMN_red">
+        <title>NADPH-dependent FMN reductase
+ PF03358.17 - FMN_red</title>
+        <polygon points="114.8,25.0 131.71,25.0 136.55,32.0 136.55,52.0 131.71,59.0 114.8,59.0" fill="#5ae43d" stroke="#48b631" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS4 [WP_127440537.1]</title>
+      <polygon class="exon" points="147.2,2 169.4,42.0 147.2,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,SnoaL_3">
+        <title>SnoaL-like domain
+ PF13474.8 - SnoaL_3</title>
+        <polygon points="148.55,25.0 159.96,25.0 166.85,38.0 166.85,46.0 159.96,59.0 148.55,59.0" fill="#b65242" stroke="#924235" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS5 [WP_030971097.1]</title>
+      <polygon class="exon" points="186.3,2 219.45,42.0 186.3,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS6 [WP_193516845.1]</title>
+      <polygon class="exon" points="219.7,22.0 396.0,22.0 396.0,2 436.0,42.0 396.0,82.0 396.0,62.0 219.7,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Pkinase">
+        <title>Protein kinase domain
+ PF00069.27 - Pkinase</title>
+        <polygon points="221.8,25.0 259.6,25.0 259.6,59.0 221.8,59.0" fill="#68bb41" stroke="#539634" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,TPR_16">
+        <title>Tetratricopeptide repeat
+ PF13432.8 - TPR_16</title>
+        <polygon points="264.85,25.0 272.5,25.0 272.5,59.0 264.85,59.0" fill="#9acd56" stroke="#7ba445" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,WD40">
+        <title>WD domain, G-beta repeat
+ PF00400.34 - WD40</title>
+        <polygon points="342.7,25.0 348.55,25.0 348.55,59.0 342.7,59.0" fill="#be6c3e" stroke="#985632" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,WD40">
+        <title>WD domain, G-beta repeat
+ PF00400.34 - WD40</title>
+        <polygon points="361.9,25.0 367.45,25.0 367.45,59.0 361.9,59.0" fill="#be6c3e" stroke="#985632" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,WD40">
+        <title>WD domain, G-beta repeat
+ PF00400.34 - WD40</title>
+        <polygon points="367.9,25.0 373.9,25.0 373.9,59.0 367.9,59.0" fill="#be6c3e" stroke="#985632" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,WD40">
+        <title>WD domain, G-beta repeat
+ PF00400.34 - WD40</title>
+        <polygon points="374.35,25.0 380.2,25.0 380.2,59.0 374.35,59.0" fill="#be6c3e" stroke="#985632" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,TPR_10">
+        <title>Tetratricopeptide repeat
+ PF13374.8 - TPR_10</title>
+        <polygon points="413.65,25.0 418.75,25.0 418.75,59.0 413.65,59.0" fill="#d362a7" stroke="#a94e86" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,TPR_16">
+        <title>Tetratricopeptide repeat
+ PF13432.8 - TPR_16</title>
+        <polygon points="423.7,29.7 429.7,35.7 429.7,48.3 423.7,54.3" fill="#9acd56" stroke="#7ba445" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS7 [WP_030971091.1]</title>
+      <polygon class="exon" points="435.8,2 471.65,42.0 435.8,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS8 [WP_193516846.1]</title>
+      <polygon class="exon" points="482.25,2 520.65,42.0 482.25,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Methyltransf_25">
+        <title>Methyltransferase domain
+ PF13649.8 - Methyltransf_25</title>
+        <polygon points="488.4,25.0 501.6,25.0 501.6,59.0 488.4,59.0" fill="#e3874a" stroke="#b66c3b" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS9 [WP_127440533.1]</title>
+      <polygon class="exon" points="530.15,22.0 557.05,22.0 557.05,2 597.05,42.0 557.05,82.0 557.05,62.0 530.15,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,DUF21">
+        <title>Cyclin M transmembrane N-terminal domain
+ PF01595.22 - DUF21</title>
+        <polygon points="531.8,25.0 560.6,25.0 560.6,59.0 531.8,59.0" fill="#4c43bb" stroke="#3d3696" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,CBS">
+        <title>CBS domain
+ PF00571.30 - CBS</title>
+        <polygon points="563.3,25.0 570.8,25.0 570.8,59.0 563.3,59.0" fill="#dc3869" stroke="#b02d54" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,CBS">
+        <title>CBS domain
+ PF00571.30 - CBS</title>
+        <polygon points="573.5,25.0 580.05,25.0 581.3,27.0 581.3,57.0 580.05,59.0 573.5,59.0" fill="#dc3869" stroke="#b02d54" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,CorC_HlyC">
+        <title>Transporter associated domain
+ PF03471.19 - CorC_HlyC</title>
+        <polygon points="583.4,28.35 595.85,40.8 595.85,43.2 583.4,55.65" fill="#3c72e4" stroke="#305bb6" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS10 [WP_127440532.1]</title>
+      <polygon class="exon" points="596.85,22.0 607.85,22.0 607.85,2 647.85,42.0 607.85,82.0 607.85,62.0 596.85,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,DUF21">
+        <title>Cyclin M transmembrane N-terminal domain
+ PF01595.22 - DUF21</title>
+        <polygon points="598.05,25.0 627.15,25.0 627.15,59.0 598.05,59.0" fill="#4c43bb" stroke="#3d3696" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,CBS">
+        <title>CBS domain
+ PF00571.30 - CBS</title>
+        <polygon points="639.3,33.45 646.65,40.8 646.65,43.2 639.3,50.55" fill="#dc3869" stroke="#b02d54" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS11 [WP_192342327.1]</title>
+      <polygon class="exon" points="693.6,22.0 692.2,22.0 692.2,2 652.2,42.0 692.2,82.0 692.2,62.0 693.6,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Abhydrolase_6">
+        <title>Alpha/beta hydrolase family
+ PF12697.9 - Abhydrolase_6</title>
+        <polygon points="685.95,25.0 669.2,25.0 655.95,39.0 655.95,45.0 669.2,59.0 685.95,59.0" fill="#7147db" stroke="#5a39af" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS12 [WP_019328966.1]</title>
+      <polygon class="exon" points="735.5,22.0 733.05,22.0 733.05,2 693.05,42.0 733.05,82.0 733.05,62.0 735.5,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Trp_dioxygenase">
+        <title>Tryptophan 2,3-dioxygenase
+ PF03301.15 - Trp_dioxygenase</title>
+        <polygon points="732.2,25.0 710.05,25.0 704.3,31.0 704.3,53.0 710.05,59.0 732.2,59.0" fill="#32c3c5" stroke="#289c9e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Trp_dioxygenase">
+        <title>Tryptophan 2,3-dioxygenase
+ PF03301.15 - Trp_dioxygenase</title>
+        <polygon points="704.15,30.9 693.5,41.55 693.5,42.45 704.15,53.1" fill="#32c3c5" stroke="#289c9e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS13 [WP_192342328.1]</title>
+      <polygon class="exon" points="775.6,2 736.75,42.0 775.6,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,adh_short_C2">
+        <title>Enoyl-(Acyl carrier protein) reductase
+ PF13561.8 - adh_short_C2</title>
+        <polygon points="773.05,25.0 753.26,25.0 737.2,42.0 737.2,42.0 753.26,59.0 773.05,59.0" fill="#49cd7f" stroke="#3aa466" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS14 [WP_192342329.1]</title>
+      <polygon class="exon" points="835.8,22.0 818.8,22.0 818.8,2 778.8,42.0 818.8,82.0 818.8,62.0 835.8,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,FAD_binding_6">
+        <title>Oxidoreductase FAD-binding domain
+ PF00970.26 - FAD_binding_6</title>
+        <polygon points="831.6,25.0 816.75,25.0 816.75,59.0 831.6,59.0" fill="#d4c267" stroke="#aa9b52" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,NAD_binding_1">
+        <title>Oxidoreductase NAD-binding domain
+ PF00175.23 - NAD_binding_1</title>
+        <polygon points="815.25,25.0 798.15,25.0 798.15,59.0 815.25,59.0" fill="#b1d360" stroke="#8ea94d" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Fer2">
+        <title>2Fe-2S iron-sulfur cluster binding domain
+ PF00111.29 - Fer2</title>
+        <polygon points="791.55,29.25 780.45,40.35 780.45,43.65 791.55,54.75" fill="#3c3bbf" stroke="#302f99" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS15 [WP_030971079.1]</title>
+      <polygon class="exon" points="861.25,2 835.6,42.0 861.25,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,FeS_assembly_P">
+        <title>Iron-sulfur cluster assembly protein
+ PF01883.21 - FeS_assembly_P</title>
+        <polygon points="859.0,25.0 849.7,25.0 849.7,59.0 859.0,59.0" fill="#abd139" stroke="#89a72e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS16 [WP_193516847.1]</title>
+      <polygon class="exon" points="906.8,22.0 901.05,22.0 901.05,2 861.05,42.0 901.05,82.0 901.05,62.0 906.8,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PaaA_PaaC">
+        <title>Phenylacetic acid catabolic protein
+ PF05138.14 - PaaA_PaaC</title>
+        <polygon points="898.25,25.0 878.05,25.0 861.05,42.0 878.05,59.0 898.25,59.0" fill="#c05a8f" stroke="#9a4872" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS17 [WP_019328961.1]</title>
+      <polygon class="exon" points="921.55,2 905.95,42.0 921.55,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PaaB">
+        <title>Phenylacetic acid degradation B
+ PF06243.13 - PaaB</title>
+        <polygon points="920.05,25.0 912.58,25.0 907.3,39.0 907.3,45.0 912.58,59.0 920.05,59.0" fill="#9eb435" stroke="#7e902a" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS18 [WP_193516848.1]</title>
+      <polygon class="exon" points="970.55,22.0 961.35,22.0 961.35,2 921.35,42.0 961.35,82.0 961.35,62.0 970.55,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PaaA_PaaC">
+        <title>Phenylacetic acid catabolic protein
+ PF05138.14 - PaaA_PaaC</title>
+        <polygon points="967.7,25.0 938.35,25.0 924.35,39.0 924.35,45.0 938.35,59.0 967.7,59.0" fill="#c05a8f" stroke="#9a4872" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS19 [WP_062139041.1]</title>
+      <polygon class="exon" points="988.7,2 1002.05,42.0 988.7,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="989.0,25.0 996.38,25.0 999.2,34.0 999.2,50.0 996.38,59.0 989.0,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS20 [WP_193516849.1]
+NRPS</title>
+      <polygon class="exon" points="1002.0,22.0 1036.25,22.0 1036.25,2 1076.25,42.0 1036.25,82.0 1036.25,62.0 1002.0,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,AMP-binding">
+        <title>AMP-binding enzyme [A]
+ PF00501.30 - AMP-binding</title>
+        <polygon points="1003.05,25.0 1059.25,25.0 1062.45,29.0 1062.45,55.0 1059.25,59.0 1003.05,59.0" fill="#3cd9df" stroke="#30aeb2" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,AMP-binding_C">
+        <title>AMP-binding enzyme C-terminal domain [A_C]
+ PF13193.8 - AMP-binding_C</title>
+        <polygon points="1063.5,29.25 1075.05,40.8 1075.05,43.2 1063.5,54.75" fill="#b63276" stroke="#92285e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS21 [WP_193516857.1]</title>
+      <polygon class="exon" points="1081.55,2 1119.8,42.0 1081.55,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,4PPT_N">
+        <title>4'-phosphopantetheinyl transferase N-terminal domain
+ PF17837.3 - 4PPT_N</title>
+        <polygon points="1086.8,25.0 1096.7,25.0 1096.7,59.0 1086.8,59.0" fill="#47b341" stroke="#398f34" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,ACPS">
+        <title>4'-phosphopantetheinyl transferase superfamily
+ PF01648.22 - ACPS</title>
+        <polygon points="1097.75,25.0 1103.54,25.0 1108.1,30.0 1108.1,54.0 1103.54,59.0 1097.75,59.0" fill="#55b887" stroke="#44936c" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS22 [WP_193516850.1]</title>
+      <polygon class="exon" points="1133.8,2 1123.9,42.0 1133.8,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,MT0933_antitox">
+        <title>MT0933-like antitoxin protein
+ PF14013.8 - MT0933_antitox</title>
+        <polygon points="1132.75,25.0 1128.11,25.0 1125.7,35.0 1125.7,49.0 1128.11,59.0 1132.75,59.0" fill="#cb46c8" stroke="#a238a0" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS23 [WP_193516851.1]</title>
+      <polygon class="exon" points="1200.2,22.0 1178.7,22.0 1178.7,2 1138.7,42.0 1178.7,82.0 1178.7,62.0 1200.2,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,ADH_N">
+        <title>Alcohol dehydrogenase GroES-like domain
+ PF08240.14 - ADH_N</title>
+        <polygon points="1192.4,25.0 1174.7,25.0 1174.7,59.0 1192.4,59.0" fill="#d3418a" stroke="#a9346e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,ADH_zinc_N">
+        <title>Zinc-binding dehydrogenase
+ PF00107.28 - ADH_zinc_N</title>
+        <polygon points="1167.95,25.0 1155.7,25.0 1145.0,36.0 1145.0,48.0 1155.7,59.0 1167.95,59.0" fill="#516cd7" stroke="#4156ac" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS24 [WP_193516858.1]
+T1PKS</title>
+      <polygon class="exon" points="1394.05,22.0 1241.75,22.0 1241.75,2 1201.75,42.0 1241.75,82.0 1241.75,62.0 1394.05,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,ketoacyl-synt">
+        <title>Beta-ketoacyl synthase, N-terminal domain [KS]
+ PF00109.28 - ketoacyl-synt</title>
+        <polygon points="1391.65,25.0 1353.7,25.0 1353.7,59.0 1391.65,59.0" fill="#7074e4" stroke="#5a5db6" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Ketoacyl-synt_C">
+        <title>Beta-ketoacyl synthase, C-terminal domain [KS_C]
+ PF02801.24 - Ketoacyl-synt_C</title>
+        <polygon points="1352.65,25.0 1334.65,25.0 1334.65,59.0 1352.65,59.0" fill="#d74e66" stroke="#ac3e52" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,KAsynt_C_assoc">
+        <title>Ketoacyl-synthetase C-terminal extension [KS_Ce]
+ PF16197.7 - KAsynt_C_assoc</title>
+        <polygon points="1334.65,25.0 1317.4,25.0 1317.4,59.0 1334.65,59.0" fill="#f096ac" stroke="#c0788a" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Acyl_transf_1">
+        <title>Acyl transferase domain [AT]
+ PF00698.23 - Acyl_transf_1</title>
+        <polygon points="1312.75,25.0 1271.2,25.0 1271.2,59.0 1312.75,59.0" fill="#3bb0d1" stroke="#2f8da7" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="1255.9,25.0 1246.45,25.0 1246.45,59.0 1255.9,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Thioesterase">
+        <title>Thioesterase domain [TE]
+ PF00975.22 - Thioesterase</title>
+        <polygon points="1241.5,25.0 1218.75,25.0 1205.2,39.0 1205.2,45.0 1218.75,59.0 1241.5,59.0" fill="#cf508a" stroke="#a6406e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS25 [WP_193516852.1]
+NRPS</title>
+      <polygon class="exon" points="1832.85,22.0 1441.15,22.0 1441.15,2 1401.15,42.0 1441.15,82.0 1441.15,62.0 1832.85,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Condensation">
+        <title>Condensation domain [C]
+ PF00668.22 - Condensation</title>
+        <polygon points="1831.8,25.0 1766.7,25.0 1766.7,59.0 1831.8,59.0" fill="#e0b862" stroke="#b3934e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,AMP-binding">
+        <title>AMP-binding enzyme [A]
+ PF00501.30 - AMP-binding</title>
+        <polygon points="1763.7,25.0 1701.6,25.0 1701.6,59.0 1763.7,59.0" fill="#3cd9df" stroke="#30aeb2" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,AMP-binding_C">
+        <title>AMP-binding enzyme C-terminal domain [A_C]
+ PF13193.8 - AMP-binding_C</title>
+        <polygon points="1700.7,25.0 1689.15,25.0 1689.15,59.0 1700.7,59.0" fill="#b63276" stroke="#92285e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="1685.25,25.0 1675.8,25.0 1675.8,59.0 1685.25,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Condensation">
+        <title>Condensation domain [C]
+ PF00668.22 - Condensation</title>
+        <polygon points="1672.5,25.0 1605.75,25.0 1605.75,59.0 1672.5,59.0" fill="#e0b862" stroke="#b3934e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,AMP-binding">
+        <title>AMP-binding enzyme [A]
+ PF00501.30 - AMP-binding</title>
+        <polygon points="1580.1,25.0 1517.4,25.0 1517.4,59.0 1580.1,59.0" fill="#3cd9df" stroke="#30aeb2" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,KR">
+        <title>KR domain [KR]
+ PF08659.12 - KR</title>
+        <polygon points="1463.55,25.0 1436.85,25.0 1436.85,59.0 1463.55,59.0" fill="#42d1bc" stroke="#35a796" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="1418.4,25.0 1418.15,25.0 1408.65,35.0 1408.65,49.0 1418.15,59.0 1418.4,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS26 [WP_193516859.1]
+NRPS</title>
+      <polygon class="exon" points="1857.55,22.0 1884.0,22.0 1884.0,2 1924.0,42.0 1884.0,82.0 1884.0,62.0 1857.55,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Condensation">
+        <title>Condensation domain [C]
+ PF00668.22 - Condensation</title>
+        <polygon points="1860.85,25.0 1895.05,25.0 1895.05,59.0 1860.85,59.0" fill="#e0b862" stroke="#b3934e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PapA_C">
+        <title>Phthiocerol/phthiodiolone dimycocerosyl transferase C-terminus
+ PF16911.7 - PapA_C</title>
+        <polygon points="1903.0,25.0 1907.0,25.0 1920.85,39.0 1920.85,45.0 1907.0,59.0 1903.0,59.0" fill="#db627f" stroke="#af4e66" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS27 [WP_046250857.1]</title>
+      <polygon class="exon" points="1928.75,2 1954.7,42.0 1928.75,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Sigma70_r2">
+        <title>Sigma-70 region 2
+ PF04542.16 - Sigma70_r2</title>
+        <polygon points="1933.7,25.0 1942.4,25.0 1942.4,59.0 1933.7,59.0" fill="#b83bc5" stroke="#932f9e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Sigma70_r4_2">
+        <title>Sigma-70, region 4
+ PF08281.14 - Sigma70_r4_2</title>
+        <polygon points="1945.7,28.13 1953.2,39.69 1953.2,44.31 1945.7,55.87" fill="#de6790" stroke="#b25273" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS28 [WP_193516860.1]</title>
+      <polygon class="exon" points="1991.85,2 1959.9,42.0 1991.85,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PAS">
+        <title>PAS fold
+ PF00989.27 - PAS</title>
+        <polygon points="1989.9,25.0 1976.1,25.0 1976.1,59.0 1989.9,59.0" fill="#cddd40" stroke="#a4b133" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,GerE">
+        <title>Bacterial regulatory proteins, luxR family
+ PF00196.21 - GerE</title>
+        <polygon points="1971.45,27.54 1963.2,37.87 1963.2,46.13 1971.45,56.46" fill="#db5e52" stroke="#af4b42" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS29 [WP_029394105.1]</title>
+      <polygon class="exon" points="2063.45,2 2047.4,42.0 2063.45,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,MerR_1">
+        <title>MerR HTH family regulatory protein
+ PF13411.8 - MerR_1</title>
+        <polygon points="2060.6,25.0 2054.22,25.0 2051.15,33.0 2051.15,51.0 2054.22,59.0 2060.6,59.0" fill="#64ca6b" stroke="#50a256" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS30 [WP_192342338.1]</title>
+      <polygon class="exon" points="2086.25,2 2093.45,42.0 2086.25,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS31 [WP_193516853.1]</title>
+      <polygon class="exon" points="2132.2,2 2093.5,42.0 2132.2,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Aminotran_4">
+        <title>Amino-transferase class IV
+ PF01063.21 - Aminotran_4</title>
+        <polygon points="2128.9,25.0 2109.95,25.0 2097.55,38.0 2097.55,46.0 2109.95,59.0 2128.9,59.0" fill="#3490bc" stroke="#2a7396" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS32 [WP_086024807.1]</title>
+      <polygon class="exon" points="2174.25,2 2139.45,42.0 2174.25,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PAS_4">
+        <title>PAS fold
+ PF08448.12 - PAS_4</title>
+        <polygon points="2169.6,25.0 2158.5,25.0 2158.5,59.0 2169.6,59.0" fill="#325ac0" stroke="#28489a" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,GerE">
+        <title>Bacterial regulatory proteins, luxR family
+ PF00196.21 - GerE</title>
+        <polygon points="2151.0,28.72 2142.75,38.21 2142.75,45.79 2151.0,55.28" fill="#db5e52" stroke="#af4b42" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS33 [WP_193516854.1]</title>
+      <polygon class="exon" points="2340.25,22.0 2238.8,22.0 2238.8,2 2198.8,42.0 2238.8,82.0 2238.8,62.0 2340.25,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,AAA_16">
+        <title>AAA ATPase domain
+ PF13191.8 - AAA_16</title>
+        <polygon points="2340.1,25.0 2315.35,25.0 2315.35,59.0 2340.1,59.0" fill="#ba664d" stroke="#95523e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,GerE">
+        <title>Bacterial regulatory proteins, luxR family
+ PF00196.21 - GerE</title>
+        <polygon points="2208.85,31.95 2200.45,40.35 2200.45,43.65 2208.85,52.05" fill="#db5e52" stroke="#af4b42" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS34 [WP_107277931.1]</title>
+      <polygon class="exon" points="2490.55,22.0 2380.4,22.0 2380.4,2 2340.4,42.0 2380.4,82.0 2380.4,62.0 2490.55,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,AAA_16">
+        <title>AAA ATPase domain
+ PF13191.8 - AAA_16</title>
+        <polygon points="2489.65,25.0 2467.9,25.0 2467.9,59.0 2489.65,59.0" fill="#ba664d" stroke="#95523e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,GerE">
+        <title>Bacterial regulatory proteins, luxR family
+ PF00196.21 - GerE</title>
+        <polygon points="2349.85,32.55 2341.9,40.5 2341.9,43.5 2349.85,51.45" fill="#db5e52" stroke="#af4b42" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS35 [WP_193516855.1]</title>
+      <polygon class="exon" points="2638.45,22.0 2534.15,22.0 2534.15,2 2494.15,42.0 2534.15,82.0 2534.15,62.0 2638.45,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,AAA_16">
+        <title>AAA ATPase domain
+ PF13191.8 - AAA_16</title>
+        <polygon points="2636.65,25.0 2610.85,25.0 2610.85,59.0 2636.65,59.0" fill="#ba664d" stroke="#95523e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,GerE">
+        <title>Bacterial regulatory proteins, luxR family
+ PF00196.21 - GerE</title>
+        <polygon points="2504.8,31.35 2496.85,39.3 2496.85,44.7 2504.8,52.65" fill="#db5e52" stroke="#af4b42" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS36 [WP_127437713.1]</title>
+      <polygon class="exon" points="2657.35,22.0 2686.2,22.0 2686.2,2 2726.2,42.0 2686.2,82.0 2686.2,62.0 2657.35,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,UDPGT">
+        <title>UDP-glucoronosyl and UDP-glucosyl transferase
+ PF00201.20 - UDPGT</title>
+        <polygon points="2673.1,25.0 2709.2,25.0 2723.35,40.0 2723.35,44.0 2709.2,59.0 2673.1,59.0" fill="#e1966b" stroke="#b47856" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS37 [WP_030971039.1]</title>
+      <polygon class="exon" points="2729.3,22.0 2742.25,22.0 2742.25,2 2782.25,42.0 2742.25,82.0 2742.25,62.0 2729.3,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,DegT_DnrJ_EryC1">
+        <title>DegT/DnrJ/EryC1/StrS aminotransferase family
+ PF01041.19 - DegT_DnrJ_EryC1</title>
+        <polygon points="2731.4,25.0 2765.25,25.0 2781.35,42.0 2781.35,42.0 2765.25,59.0 2731.4,59.0" fill="#3b8bbf" stroke="#2f6f99" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS38 [WP_030971038.1]</title>
+      <polygon class="exon" points="2784.95,22.0 2804.05,22.0 2804.05,2 2844.05,42.0 2804.05,82.0 2804.05,62.0 2784.95,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,p450">
+        <title>Cytochrome P450
+ PF00067.24 - p450</title>
+        <polygon points="2824.7,25.0 2827.05,25.0 2839.25,38.0 2839.25,46.0 2827.05,59.0 2824.7,59.0" fill="#55d86b" stroke="#44ad56" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS39 [WP_019328939.1]</title>
+      <polygon class="exon" points="2846.05,2 2855.8,42.0 2846.05,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Fer4_13">
+        <title>4Fe-4S single cluster domain of Ferredoxin I
+ PF13370.8 - Fer4_13</title>
+        <polygon points="2846.65,25.0 2851.66,25.0 2855.35,41.0 2855.35,43.0 2851.66,59.0 2846.65,59.0" fill="#dcd841" stroke="#b0ad34" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS40 [WP_019328938.1]</title>
+      <polygon class="exon" points="2858.9,2 2897.45,42.0 2858.9,82.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,Thioesterase">
+        <title>Thioesterase domain [TE]
+ PF00975.22 - Thioesterase</title>
+        <polygon points="2862.35,25.0 2881.07,25.0 2895.5,40.0 2895.5,44.0 2881.07,59.0 2862.35,59.0" fill="#cf508a" stroke="#a6406e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS41 [WP_193450316.1]</title>
+      <polygon class="exon" points="2907.7,22.0 2978.25,22.0 2978.25,2 3018.25,42.0 2978.25,82.0 2978.25,62.0 2907.7,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,GATase">
+        <title>Glutamine amidotransferase class-I
+ PF00117.30 - GATase</title>
+        <polygon points="2908.3,25.0 2935.6,25.0 2935.6,59.0 2908.3,59.0" fill="#9fc960" stroke="#7fa14d" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Anth_synt_I_N">
+        <title>Anthranilate synthase component I, N terminal region
+ PF04715.15 - Anth_synt_I_N</title>
+        <polygon points="2945.65,25.0 2965.15,25.0 2965.15,59.0 2945.65,59.0" fill="#a357b7" stroke="#824692" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Chorismate_bind">
+        <title>chorismate binding enzyme
+ PF00425.20 - Chorismate_bind</title>
+        <polygon points="2972.65,25.0 3001.25,25.0 3011.05,35.0 3011.05,49.0 3001.25,59.0 2972.65,59.0" fill="#bc7458" stroke="#965d46" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS42 [WP_193450315.1]
+PKS-NRPS_hybrid</title>
+      <polygon class="exon" points="3025.6,22.0 3253.8,22.0 3253.8,2 3293.8,42.0 3253.8,82.0 3253.8,62.0 3025.6,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,AMP-binding">
+        <title>AMP-binding enzyme [A]
+ PF00501.30 - AMP-binding</title>
+        <polygon points="3030.1,25.0 3091.75,25.0 3091.75,59.0 3030.1,59.0" fill="#3cd9df" stroke="#30aeb2" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,AMP-binding_C">
+        <title>AMP-binding enzyme C-terminal domain [A_C]
+ PF13193.8 - AMP-binding_C</title>
+        <polygon points="3092.8,25.0 3107.35,25.0 3107.35,59.0 3092.8,59.0" fill="#b63276" stroke="#92285e" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="3115.45,25.0 3123.55,25.0 3123.55,59.0 3115.45,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,ketoacyl-synt">
+        <title>Beta-ketoacyl synthase, N-terminal domain [KS]
+ PF00109.28 - ketoacyl-synt</title>
+        <polygon points="3127.0,25.0 3164.8,25.0 3164.8,59.0 3127.0,59.0" fill="#7074e4" stroke="#5a5db6" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Ketoacyl-synt_C">
+        <title>Beta-ketoacyl synthase, C-terminal domain [KS_C]
+ PF02801.24 - Ketoacyl-synt_C</title>
+        <polygon points="3165.7,25.0 3183.55,25.0 3183.55,59.0 3165.7,59.0" fill="#d74e66" stroke="#ac3e52" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,KAsynt_C_assoc">
+        <title>Ketoacyl-synthetase C-terminal extension [KS_Ce]
+ PF16197.7 - KAsynt_C_assoc</title>
+        <polygon points="3183.7,25.0 3202.75,25.0 3202.75,59.0 3183.7,59.0" fill="#f096ac" stroke="#c0788a" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Acyl_transf_1">
+        <title>Acyl transferase domain [AT]
+ PF00698.23 - Acyl_transf_1</title>
+        <polygon points="3208.9,25.0 3257.65,25.0 3257.65,59.0 3208.9,59.0" fill="#3bb0d1" stroke="#2f8da7" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="3270.4,25.0 3276.8,25.0 3278.65,27.0 3278.65,57.0 3276.8,59.0 3270.4,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS43 [WP_086876880.1]</title>
+      <polygon class="exon" points="3309.45,22.0 3319.7,22.0 3319.7,2 3359.7,42.0 3319.7,82.0 3319.7,62.0 3309.45,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,ABC_tran">
+        <title>ABC transporter
+ PF00005.29 - ABC_tran</title>
+        <polygon points="3315.0,25.0 3336.75,25.0 3336.75,59.0 3315.0,59.0" fill="#81c93f" stroke="#67a132" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS44 [WP_127443165.1]</title>
+      <polygon class="exon" points="3364.3,22.0 3366.75,22.0 3366.75,2 3406.75,42.0 3366.75,82.0 3366.75,62.0 3364.3,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,ABC2_membrane">
+        <title>ABC-2 type transporter
+ PF01061.26 - ABC2_membrane</title>
+        <polygon points="3368.95,25.0 3389.75,25.0 3401.35,37.0 3401.35,47.0 3389.75,59.0 3368.95,59.0" fill="#8bd96a" stroke="#6fae55" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g>
+      <title>JCM4529.region27~L0+CDS45 [WP_193516856.1]
+T1PKS</title>
+      <polygon class="exon" points="3745.35,22.0 3473.25,22.0 3473.25,2 3433.25,42.0 3473.25,82.0 3473.25,62.0 3745.35,62.0" fill="#ffffff" stroke-width="2" stroke="#0a0a0a"/>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="3744.9,25.0 3737.7,25.0 3737.7,59.0 3744.9,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,ketoacyl-synt">
+        <title>Beta-ketoacyl synthase, N-terminal domain [KS]
+ PF00109.28 - ketoacyl-synt</title>
+        <polygon points="3713.85,25.0 3678.15,25.0 3678.15,59.0 3713.85,59.0" fill="#7074e4" stroke="#5a5db6" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Ketoacyl-synt_C">
+        <title>Beta-ketoacyl synthase, C-terminal domain [KS_C]
+ PF02801.24 - Ketoacyl-synt_C</title>
+        <polygon points="3677.25,25.0 3659.4,25.0 3659.4,59.0 3677.25,59.0" fill="#d74e66" stroke="#ac3e52" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,KAsynt_C_assoc">
+        <title>Ketoacyl-synthetase C-terminal extension [KS_Ce]
+ PF16197.7 - KAsynt_C_assoc</title>
+        <polygon points="3659.25,25.0 3643.95,25.0 3643.95,59.0 3659.25,59.0" fill="#f096ac" stroke="#c0788a" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,Acyl_transf_1">
+        <title>Acyl transferase domain [AT]
+ PF00698.23 - Acyl_transf_1</title>
+        <polygon points="3634.05,25.0 3591.9,25.0 3591.9,59.0 3634.05,59.0" fill="#3bb0d1" stroke="#2f8da7" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PS-DH">
+        <title>Polyketide synthase dehydratase [DH]
+ PF14765.8 - PS-DH</title>
+        <polygon points="3580.2,25.0 3538.05,25.0 3538.05,59.0 3580.2,59.0" fill="#ad38b6" stroke="#8a2d92" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,KR">
+        <title>KR domain [KR]
+ PF08659.12 - KR</title>
+        <polygon points="3500.85,25.0 3473.85,25.0 3473.85,59.0 3500.85,59.0" fill="#42d1bc" stroke="#35a796" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+      <g class="domain,PP-binding">
+        <title>Phosphopantetheine attachment site [T/ACP]
+ PF00550.27 - PP-binding</title>
+        <polygon points="3457.8,25.0 3450.25,25.0 3447.6,28.0 3447.6,56.0 3450.25,59.0 3457.8,59.0" fill="#67bf58" stroke="#529946" stroke-width="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
+</svg>

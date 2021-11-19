@@ -1,0 +1,24 @@
+Prueba_1 summary file
+
+This collection contains
+* 42 BGCs
+* 0 Proteins
+
+Core Biosynthetic Composition count (BGCs):
+7	NRPS
+7	terpene
+6	T1PKS
+3	siderophore
+3	NRPS-like
+2	T2PKS
+2	lanthipeptide-class-i
+2	RiPP-like
+2	lanthipeptide-class-iii
+1	melanin
+1	NRPS, butyrolactone
+1	T3PKS
+1	indole
+1	NRPS, PKS-NRPS_hybrid, T1PKS
+1	T1PKS, hglE-KS
+1	ectoine
+1	PKS-like, furan, lanthipeptide-class-v
